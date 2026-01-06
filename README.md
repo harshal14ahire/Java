@@ -159,15 +159,17 @@ java ModernStreamAPI
 - ✅ Teeing collector
 
 ### Java 14
-- ✅ Records
+- ✅ Records (preview, finalized in Java 16)
 - ✅ Switch expressions
 - ✅ Pattern matching for instanceof (preview)
 
 ### Java 15
 - ✅ Text blocks
+- ✅ Pattern matching for instanceof (second preview)
 
 ### Java 16
-- ✅ Pattern matching for instanceof (standard)
+- ✅ Records (finalized)
+- ✅ Pattern matching for instanceof (finalized)
 
 ### Java 17
 - ✅ Sealed classes
